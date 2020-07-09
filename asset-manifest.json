@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ContactList-Api-master/static/css/main.498d002a.chunk.css",
+    "main.js": "/React-ContactList-Api-master/static/js/main.9596edcf.chunk.js",
+    "main.js.map": "/React-ContactList-Api-master/static/js/main.9596edcf.chunk.js.map",
+    "runtime~main.js": "/React-ContactList-Api-master/static/js/runtime~main.2aa3b9a8.js",
+    "runtime~main.js.map": "/React-ContactList-Api-master/static/js/runtime~main.2aa3b9a8.js.map",
+    "static/js/2.1cedff7a.chunk.js": "/React-ContactList-Api-master/static/js/2.1cedff7a.chunk.js",
+    "static/js/2.1cedff7a.chunk.js.map": "/React-ContactList-Api-master/static/js/2.1cedff7a.chunk.js.map",
+    "index.html": "/React-ContactList-Api-master/index.html",
+    "precache-manifest.23bdc172d47ffc7a4a7868246800d7eb.js": "/React-ContactList-Api-master/precache-manifest.23bdc172d47ffc7a4a7868246800d7eb.js",
+    "service-worker.js": "/React-ContactList-Api-master/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/React-ContactList-Api-master/static/css/main.498d002a.chunk.css.map"
+  }
+}
