@@ -1,26 +1,22 @@
-import React, { Component } from 'react';
-import Contacts from './Components/contacts';
-
+import React, { Component } from "react";
+import Contacts from "./Components/contacts";
 
 class App extends Component {
-  
   state = {
-    contacts: []
-  }
+    contacts: [],
+  };
 
   componentDidMount() {
-    fetch('http://jsonplaceholder.typicode.com/users')
-      .then(res => res.json())
+    fetch("https://jsonplaceholder.typicode.com/users")
+      .then((res) => res.json())
       .then((data) => {
-        this.setState({ contacts: data })
+        this.setState({ contacts: data });
       })
-      .catch(console.log)
+      .catch(console.log);
   }
 
   render() {
-    return (
-      <Contacts contacts={this.state.contacts} />
-    );
+    return <Contacts contacts={this.state.contacts} />;
   }
 }
 
