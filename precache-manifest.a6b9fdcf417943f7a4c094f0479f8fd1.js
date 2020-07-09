@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf456185575cef4534742109c16a43ea",
+    "revision": "60d15b8a8ca7df08cae41065fec12bca",
     "url": "/React-ContactList-Api/index.html"
   },
   {
-    "revision": "49bc336ab92270074b9f",
+    "revision": "e92e5f955153e113d542",
     "url": "/React-ContactList-Api/static/css/main.498d002a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-ContactList-Api/static/js/2.1cedff7a.chunk.js"
   },
   {
-    "revision": "49bc336ab92270074b9f",
-    "url": "/React-ContactList-Api/static/js/main.4368c976.chunk.js"
+    "revision": "e92e5f955153e113d542",
+    "url": "/React-ContactList-Api/static/js/main.caeea202.chunk.js"
   },
   {
     "revision": "552353fae8fff53c8967",
