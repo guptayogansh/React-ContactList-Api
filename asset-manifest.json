@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-ContactList-Api-master/static/css/main.498d002a.chunk.css",
-    "main.js": "/React-ContactList-Api-master/static/js/main.9596edcf.chunk.js",
-    "main.js.map": "/React-ContactList-Api-master/static/js/main.9596edcf.chunk.js.map",
-    "runtime~main.js": "/React-ContactList-Api-master/static/js/runtime~main.2aa3b9a8.js",
-    "runtime~main.js.map": "/React-ContactList-Api-master/static/js/runtime~main.2aa3b9a8.js.map",
-    "static/js/2.1cedff7a.chunk.js": "/React-ContactList-Api-master/static/js/2.1cedff7a.chunk.js",
-    "static/js/2.1cedff7a.chunk.js.map": "/React-ContactList-Api-master/static/js/2.1cedff7a.chunk.js.map",
-    "index.html": "/React-ContactList-Api-master/index.html",
-    "precache-manifest.23bdc172d47ffc7a4a7868246800d7eb.js": "/React-ContactList-Api-master/precache-manifest.23bdc172d47ffc7a4a7868246800d7eb.js",
-    "service-worker.js": "/React-ContactList-Api-master/service-worker.js",
-    "static/css/main.498d002a.chunk.css.map": "/React-ContactList-Api-master/static/css/main.498d002a.chunk.css.map"
+    "main.css": "/React-ContactList-Api/static/css/main.498d002a.chunk.css",
+    "main.js": "/React-ContactList-Api/static/js/main.4368c976.chunk.js",
+    "main.js.map": "/React-ContactList-Api/static/js/main.4368c976.chunk.js.map",
+    "runtime~main.js": "/React-ContactList-Api/static/js/runtime~main.f3375537.js",
+    "runtime~main.js.map": "/React-ContactList-Api/static/js/runtime~main.f3375537.js.map",
+    "static/js/2.1cedff7a.chunk.js": "/React-ContactList-Api/static/js/2.1cedff7a.chunk.js",
+    "static/js/2.1cedff7a.chunk.js.map": "/React-ContactList-Api/static/js/2.1cedff7a.chunk.js.map",
+    "index.html": "/React-ContactList-Api/index.html",
+    "precache-manifest.528fa65d17c19344ae0a360fea6966fb.js": "/React-ContactList-Api/precache-manifest.528fa65d17c19344ae0a360fea6966fb.js",
+    "service-worker.js": "/React-ContactList-Api/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/React-ContactList-Api/static/css/main.498d002a.chunk.css.map"
   }
 }
